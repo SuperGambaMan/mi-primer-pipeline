@@ -2,7 +2,7 @@
 
 ## Badges de estado
 
-![Workflow](https://github.com/TU_USUARIO/mi-primer-pipeline/actions/workflows/ci.yml/badge.svg)
+![Workflow](https://github.com/SuperGambaMan/mi-primer-pipeline/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10%20%7C%203.11-blue)
 ![Flask](https://img.shields.io/badge/flask-3.0.0-green)
 ![License](https://img.shields.io/badge/license-MIT-purple)
@@ -39,7 +39,7 @@ mi-primer-pipeline/
 
 ### Clonar el repositorio
 
-git clone https://github.com/TU_USUARIO/mi-primer-pipeline.git
+git clone https://github.com/SuperGambaMan/mi-primer-pipeline.git
 cd mi-primer-pipeline
 
 ### Crear entorno virtual
